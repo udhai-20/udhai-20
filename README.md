@@ -12,9 +12,9 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=sathish-02&label=Profile%20views&color=0e75b6&style=plastic" alt="sathish-02" /> 
+	<img src="https://komarev.com/ghpvc/?username=udhai-20&label=Profile%20views&color=0e75b6&style=plastic" alt="sathish-02" /> 
 	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="sathish-02" target="_blank"/> 
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="udhai-20" target="_blank"/> 
 	</a>
 </p>
 
@@ -58,9 +58,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sathish-02)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-b-7156ab225/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sathishb163@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/udhai-20)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/udhayaprakash-5645ba185)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:udhayaprakash122@gmail.com)
 
 
 
