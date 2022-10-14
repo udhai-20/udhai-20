@@ -50,9 +50,9 @@
 ## Live Projects
 
 <p>
-<a href="https://mellow-rolypoly-03e5bc.netlify.app/shop.html" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blumercurry&color=000000&Color=FFFFFF&label=" alt="Blumercurry"/></a>
+<a href="https://mellow-rolypoly-03e5bc.netlify.app/index.html" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blumercurry&color=000000&Color=FFFFFF&label=" alt="Blumercurry"/></a>
 
-<a href="https://mellow-rolypoly-03e5bc.netlify.app/shop.html" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Freshly&color=000000&Color=FFFFFF&label=" alt="Freshly"/></a>
+<a href="https://fluffy-croquembouche-14d5f2.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Freshly&color=000000&Color=FFFFFF&label=" alt="Freshly"/></a>
 </p>
 
 
