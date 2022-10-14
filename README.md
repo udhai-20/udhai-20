@@ -12,7 +12,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=udhai-20&label=Profile%20views&color=0e75b6&style=plastic" alt="sathish-02" /> 
+	<img src="https://komarev.com/ghpvc/?username=udhai-20&label=Profile%20views&color=0e75b6&style=plastic" alt="udhai-20" /> 
 	<a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="udhai-20" target="_blank"/> 
 	</a>
@@ -74,7 +74,7 @@
     <a href="https://github.com/udhai-20/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=udhai-20&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathish-02&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="udhai-20" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udhai-20&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="udhai-20" height="192px"/>
   <br/>
   
   </p>
@@ -83,7 +83,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/sathish-02"><img alt="udhai-20's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=udhai-20&custom_title=udhai-20's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/udhai-20"><img alt="udhai-20's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=udhai-20&custom_title=udhai-20's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -91,6 +91,6 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathish-02&layout=compact&theme=algolia" alt="sathish-02" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udhai-20&layout=compact&theme=algolia" alt="udhai-20" /></a> </p>
 
 
