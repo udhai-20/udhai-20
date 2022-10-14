@@ -50,9 +50,9 @@
 ## Live Projects
 
 <p>
-<a href="https://nike-five.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike"/></a>
+<a href="https://mellow-rolypoly-03e5bc.netlify.app/shop.html" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Blumercurry"/></a>
 
-<a href="https://github.com/udhai-20/Epic_Games_Backend" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Epic-Games&color=000000&logo=Epic-Games&logoColor=FFFFFF&label=" alt="adidas"/></a>
+<a href="https://fluffy-croquembouche-14d5f2.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Epic-Games&color=000000&logo=Epic-Games&logoColor=FFFFFF&label=" alt="Freshly"/></a>
 </p>
 
 
