@@ -58,7 +58,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
-[![Portfolio](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://udhai-20.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Porfolio-000?style=flat&logo=🔭&logoColor=white)](https://udhai-20.github.io/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/udhayaprakash-5645ba185/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:udhayaprakash122@gmail.com)
 
