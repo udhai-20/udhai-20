@@ -74,7 +74,7 @@
     <a href="https://github.com/udhai-20/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=udhai-20&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udhai-20&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="udhai-20" height="192px"/>
+	  /*<img src="https://github-readme-stats.vercel.app/api/top-langs?username=udhai-20&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="udhai-20" height="192px"/>*/
   <br/>
   
   </p>
