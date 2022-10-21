@@ -1,6 +1,6 @@
 
 <p align="center" >
-  <img src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" alt="img" src="" width="50%" height="auto"/>
+  
 </p>
 
 <hr />
