@@ -58,7 +58,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/udhai-20)
+[![Portfolio](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://udhai-20.github.io/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/udhayaprakash-5645ba185/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:udhayaprakash122@gmail.com)
 
@@ -74,7 +74,7 @@
     <a href="https://github.com/udhai-20/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=udhai-20&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  /*<img src="https://github-readme-stats.vercel.app/api/top-langs?username=udhai-20&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="udhai-20" height="192px"/>*/
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udhai-20&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="udhai-20" height="192px"/>
   <br/>
   
   </p>
