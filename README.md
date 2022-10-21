@@ -21,7 +21,7 @@
 
 ## :sassy_man:  About me
  A Full Stack Web Developer based in India. A creative coder who specializes in MERN stack. I make it my mission to design pixel-perfect websites and applications with optimized code that run blazing fast.
-- :thinking: I’m currently open for: `A new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1QMQbVSWh-D43ZTutmjIn6r36odo_CjOE/view?usp=sharing).
+- :thinking: I’m currently open for: `A new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1qpuvn4jizWts1s77_jDTc-D3HZvcMi_Z/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
