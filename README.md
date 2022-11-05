@@ -78,11 +78,11 @@
   
   </p>
 
-----
+<!-- ----<img src="https://raw.githubusercontent.com/deepak-812/deepak-812/output/github-contribution-grid-snake.svg" /> -->
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/udhai-20"><img alt="udhai-20's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=udhai-20&custom_title=udhai-20's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/udhai-20"><img alt="udhai-20's Activity Graph" src="https://raw.githubusercontent.com/udhai-20/udhai-20/output/github-contribution-grid-snake.svg's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
