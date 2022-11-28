@@ -53,7 +53,7 @@
 
 <a href="https://fluffy-croquembouche-14d5f2.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Freshly&color=000000&Color=FFFFFF&label=" alt="Freshly"/></a>
 </p>
-<a href="https://interandjob.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Freshly&color=000000&Color=FFFFFF&label=" alt="Intern & Theory"/></a>
+<a href="https://interandjob.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=InterTheory&color=000000&Color=FFFFFF&label=" alt="Intern & Theory"/></a>
 </p>
 
 
