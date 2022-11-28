@@ -53,6 +53,8 @@
 
 <a href="https://fluffy-croquembouche-14d5f2.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Freshly&color=000000&Color=FFFFFF&label=" alt="Freshly"/></a>
 </p>
+<a href="https://fluffy-croquembouche-14d5f2.netlify.app/" target="blank"><img src="[https://img.shields.io/static/v1?style=for-the-badge&message=Freshly&color=000000&Color=FFFFFF&label=" alt="Intern & Theory"/></a>
+</p>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
