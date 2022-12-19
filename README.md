@@ -84,7 +84,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-<!-- <a href="https://github.com/udhai-20/github-readme-activity-graph"><img alt="Udhaya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=udhai-20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<!-- <img href="https://github.com/udhai-20/github-readme-activity-graph"><img alt="Udhaya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=udhai-20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></img> -->
   <br/>
 
 
