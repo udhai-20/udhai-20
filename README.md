@@ -84,7 +84,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github-readme-activity-graph.cyclic.app/graph?username=udhai-20&theme=high-contrast" alt="udhayaPrakash"/></a>
+   <a href="https://github-readme-activity-graph.cyclic.app/graph?username=udhai-20&theme=high-contrast"/></a>
   <br/>
 
 
